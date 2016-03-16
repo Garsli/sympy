@@ -24,6 +24,8 @@ In addition, there are some other commands:
 To get a full list of avaiable commands, read the output of:
 
     python setup.py --help-commands
+    
+    bunları ben ekledim
 
 Or, if all else fails, feel free to write to the sympy list at
 sympy@googlegroups.com and ask for help.
